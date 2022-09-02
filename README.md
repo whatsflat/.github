@@ -1,2 +1,2 @@
-# .github
-Readme file for project home page
+# WhatsFlat
+A simple chat app
